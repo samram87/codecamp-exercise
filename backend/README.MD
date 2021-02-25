@@ -1,3 +1,5 @@
-INIT WITH 
+## Available Scripts
 
-nodemon server 
+In the project directory, you can run:
+
+### `npm start`
